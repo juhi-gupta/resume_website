@@ -1,6 +1,6 @@
 This website is hosted on ::
 
-https://sunaina1109.github.io/resume_website/
+https://arjun2010-ece.github.io/resume_website/
 
 
 To deploy website, run:
