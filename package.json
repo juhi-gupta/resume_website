@@ -1,13 +1,13 @@
 {
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
-  "homepage": "https://arjun2010-ece.github.io/resume_website",
+  "homepage": "https://sunaina1109.github.io/resume_website",
   "version": "2.0.0",
   "private": true,
   "author": {
-    "name": "Arjun Sah",
-    "email": "arjun2010.ece@gmail.com",
-    "url": "https://github.com/arjun2010-ece"
+    "name": "Sunaina Srivastava",
+    "email": "sunainasrivastava1109@gmail.com",
+    "url": "https://github.com/sunaina1109"
   },
   "dependencies": {
     "axios": "^0.19.2",
@@ -26,9 +26,9 @@
     "typescript": "^3.9.7"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
+    "predeploy": "npm run --openssl-legacy-provider build",
+    "deploy": "gh-pages --openssl-legacy-provider -d build",
+    "start": "react-scripts  --openssl-legacy-provider start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
