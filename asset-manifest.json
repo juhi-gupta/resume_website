@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/resume_website/static/css/main.120e018e.chunk.css",
+    "main.js": "/resume_website/static/js/main.d24c7279.chunk.js",
+    "main.js.map": "/resume_website/static/js/main.d24c7279.chunk.js.map",
+    "runtime-main.js": "/resume_website/static/js/runtime-main.4e59809d.js",
+    "runtime-main.js.map": "/resume_website/static/js/runtime-main.4e59809d.js.map",
+    "static/js/2.889092ad.chunk.js": "/resume_website/static/js/2.889092ad.chunk.js",
+    "static/js/2.889092ad.chunk.js.map": "/resume_website/static/js/2.889092ad.chunk.js.map",
+    "index.html": "/resume_website/index.html",
+    "precache-manifest.6a7aa26c126cd0227cfab963924485b2.js": "/resume_website/precache-manifest.6a7aa26c126cd0227cfab963924485b2.js",
+    "service-worker.js": "/resume_website/service-worker.js",
+    "static/css/main.120e018e.chunk.css.map": "/resume_website/static/css/main.120e018e.chunk.css.map",
+    "static/js/2.889092ad.chunk.js.LICENSE.txt": "/resume_website/static/js/2.889092ad.chunk.js.LICENSE.txt",
+    "static/media/juhi.jpeg": "/resume_website/static/media/juhi.03bd9eb3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e59809d.js",
+    "static/js/2.889092ad.chunk.js",
+    "static/css/main.120e018e.chunk.css",
+    "static/js/main.d24c7279.chunk.js"
+  ]
+}
